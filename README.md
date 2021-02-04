@@ -8,8 +8,6 @@
 
 ## Design Patterns: 
 
-<br>
-
 ### Creational Patterns
 1) Factory Method - TODO
 2) Abstract Factory - TODO
