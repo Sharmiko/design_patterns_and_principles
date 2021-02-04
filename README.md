@@ -36,7 +36,7 @@
 3) Iterator - TODO
 4) Mediator - TODO
 5) Memento - TODO
-6) [Observer](../observer_pattern)
+6) [Observer](./observer_pattern)
 7) State - TODO
 8) Strategy - TODO
 9) Template Method - TODO
