@@ -9,7 +9,7 @@
 ## Design Patterns: 
 
 ### Creational Patterns
-1) Factory Method - TODO
+1) [Factory Method](./factory_method) - Define an interface for creating an object, but let the subclasses decide what class to instantiate. Factory Method lets a class defer instantiation to subclasses.
 2) [Abstract Factory](./abstract_factory) - Provide an interface for creating families of related or dependent objects without specifying concrete classes.
 3) [Builder](./builder) - Separate the construction of a complex object
 from its representation so that the same construction process can create different representations.
