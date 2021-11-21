@@ -20,7 +20,7 @@ from its representation so that the same construction process can create differe
 
 ### Structural Patterns
 1) [Adapter](./adapter) - Convert the interface of a class into another interface clients expect. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces.
-2) Bridge - TODO
+2) [Bridge](./bridge) - Decouple an abstraction from its implementation so that the two can vary independently.
 3) Composite - TODO
 4) Decorator - TODO
 5) Facade - TODO
