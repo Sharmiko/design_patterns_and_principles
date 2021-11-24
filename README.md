@@ -22,7 +22,7 @@ from its representation so that the same construction process can create differe
 1) [Adapter](./adapter) - Convert the interface of a class into another interface clients expect. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces.
 2) [Bridge](./bridge) - Decouple an abstraction from its implementation so that the two can vary independently.
 3) [Composite](./composite) - Compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly. 
-4) Decorator - TODO
+4) [Decorator](./decorator) - Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
 5) Facade - TODO
 6) Flyweight - TODO
 7) Proxy - TODO
