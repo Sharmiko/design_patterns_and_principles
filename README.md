@@ -23,7 +23,7 @@ from its representation so that the same construction process can create differe
 2) [Bridge](./bridge) - Decouple an abstraction from its implementation so that the two can vary independently.
 3) [Composite](./composite) - Compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly. 
 4) [Decorator](./decorator) - Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
-5) Facade - TODO
+5) [Facade](./facade) - Provide a unified interface to a set of interfaces in a subsystem. Facade defines a higher-level interface that makes the subsystem easier to use.
 6) Flyweight - TODO
 7) Proxy - TODO
 <br>
